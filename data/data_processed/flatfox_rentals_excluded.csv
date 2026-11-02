@@ -1,0 +1,182 @@
+﻿pk,gemeinde_name,kanton_geo,object_type,surface_living,number_of_rooms,step,reason
+85757297,Oberägeri,ZG,SINGLE_ROOM,12.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+85791905,Luzern,LU,SINGLE_ROOM,9.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+85972912,Wollerau,SZ,SINGLE_ROOM,12.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+85975982,Beromünster,LU,SINGLE_ROOM,18.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+85987391,Entlebuch,LU,SINGLE_ROOM,12.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86070304,Neuenkirch,LU,SINGLE_ROOM,17.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86187062,Römerswil,LU,SINGLE_ROOM,47.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86323521,Root,LU,SINGLE_HOUSE,142.0,5.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86332736,Weggis,LU,VILLA,270.0,7.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86366392,Triengen,LU,SINGLE_HOUSE,165.0,6.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86369971,Oberägeri,ZG,SINGLE_HOUSE,176.0,5.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86379797,Steinen,SZ,SINGLE_HOUSE,195.0,4.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86386156,Willisau,LU,FARM_HOUSE,225.0,8.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86392791,Sattel,SZ,SINGLE_HOUSE,90.0,3.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86404912,Römerswil,LU,SINGLE_HOUSE,245.0,7.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86416550,Rothenburg,LU,SINGLE_HOUSE,138.0,5.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86421677,Kriens,LU,SINGLE_ROOM,110.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86422720,Einsiedeln,SZ,SINGLE_HOUSE,222.0,10.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86444782,Neuenkirch,LU,SINGLE_ROOM,14.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86444826,Oberägeri,ZG,SINGLE_HOUSE,150.0,4.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86447990,Luzern,LU,SINGLE_ROOM,14.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86452778,Schattdorf,UR,SINGLE_HOUSE,192.0,6.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86454399,Malters,LU,SINGLE_HOUSE,120.0,4.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86454646,Sattel,SZ,DUPLEX_HOUSE,160.0,6.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86455617,Aesch (LU),LU,SINGLE_ROOM,30.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86459754,Kriens,LU,SINGLE_HOUSE,13.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86461383,Engelberg,OW,SINGLE_ROOM,20.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86462944,Kriens,LU,SINGLE_ROOM,16.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86463318,Willisau,LU,FARM_HOUSE,225.0,8.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86464357,Hünenberg,ZG,SINGLE_ROOM,10.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86466160,Flühli,LU,SINGLE_HOUSE,40.0,3.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86467779,Zug,ZG,SINGLE_ROOM,15.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86467786,Gisikon,LU,SINGLE_ROOM,24.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86468678,Rickenbach (LU),LU,SINGLE_HOUSE,150.0,5.5,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86478406,Kriens,LU,SINGLE_ROOM,32.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+86479363,Kriens,LU,SINGLE_HOUSE,14.0,1.0,0 Eingrenzung,"keine Wohnung (WG-Zimmer, Haus)"
+1389528,Cham,ZG,APARTMENT,34.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+1389539,Cham,ZG,APARTMENT,30.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+1389542,Cham,ZG,APARTMENT,67.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+85432489,Cham,ZG,STUDIO,30.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+85435403,Cham,ZG,APARTMENT,38.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+85435406,Cham,ZG,APARTMENT,49.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+85435421,Cham,ZG,APARTMENT,45.0,2.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+85435442,Cham,ZG,APARTMENT,95.0,3.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+85435448,Cham,ZG,APARTMENT,98.0,3.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+85643979,Escholzmatt-Marbach,LU,APARTMENT,90.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+85746719,Giswil,OW,APARTMENT,11.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+85883018,Luzern,LU,APARTMENT,58.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86039480,Grossdietwil,LU,APARTMENT,102.0,3.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86048561,Beromünster,LU,APARTMENT,80.0,3.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86076837,Willisau,LU,ROOF_FLAT,99.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86206620,Rickenbach (LU),LU,APARTMENT,114.0,4.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86216420,Ermensee,LU,APARTMENT,60.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86230557,Schüpfheim,LU,APARTMENT,115.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86245793,Freienbach,SZ,APARTMENT,26.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86248849,Emmen,LU,APARTMENT,85.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86252790,Kriens,LU,APARTMENT,89.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86260138,Küssnacht (SZ),SZ,APARTMENT,114.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86266877,Fischbach,LU,APARTMENT,85.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86277452,Escholzmatt-Marbach,LU,APARTMENT,80.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86280955,Zell (LU),LU,APARTMENT,130.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86293837,Kriens,LU,APARTMENT,80.0,1.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86302188,Freienbach,SZ,APARTMENT,137.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86305098,Zug,ZG,APARTMENT,47.0,3.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86314726,Oberkirch,LU,APARTMENT,90.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86318377,Malters,LU,APARTMENT,95.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86332592,Emmen,LU,APARTMENT,83.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86339240,Luzern,LU,APARTMENT,70.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86339246,Luzern,LU,APARTMENT,70.0,1.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86340741,Malters,LU,APARTMENT,78.0,4.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86340748,Römerswil,LU,APARTMENT,87.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86342440,Zug,ZG,APARTMENT,130.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86353064,Ettiswil,LU,APARTMENT,110.0,5.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86353775,Willisau,LU,APARTMENT,75.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86360105,Kriens,LU,APARTMENT,65.0,3.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86362384,Emmen,LU,APARTMENT,63.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86365260,Horw,LU,APARTMENT,103.0,3.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86365680,Luzern,LU,APARTMENT,104.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86366142,Cham,ZG,APARTMENT,24.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86371352,Grossdietwil,LU,APARTMENT,102.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86371863,Beromünster,LU,APARTMENT,100.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86371874,Ermensee,LU,APARTMENT,125.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86371879,Ebikon,LU,APARTMENT,85.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86376411,Grossdietwil,LU,APARTMENT,102.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86378878,Muotathal,SZ,APARTMENT,120.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86381440,Schübelbach,SZ,DUPLEX,150.0,5.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86382174,Altdorf (UR),UR,APARTMENT,80.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86385197,Malters,LU,APARTMENT,120.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86385499,Kriens,LU,APARTMENT,58.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86389480,Hergiswil (NW),NW,APARTMENT,150.0,6.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86391175,Nebikon,LU,APARTMENT,120.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86396307,Kriens,LU,APARTMENT,102.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86397369,Andermatt,UR,APARTMENT,34.0,1.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86398648,Menzingen,ZG,APARTMENT,86.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86400300,Flühli,LU,APARTMENT,96.0,4.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86401427,Luzern,LU,APARTMENT,112.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86405547,Kerns,OW,APARTMENT,133.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86409811,Emmen,LU,APARTMENT,94.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86410236,Luzern,LU,APARTMENT,102.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86411841,Kerns,OW,APARTMENT,133.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86411852,Ballwil,LU,APARTMENT,90.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86413313,Ruswil,LU,APARTMENT,30.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86415993,Altendorf,SZ,APARTMENT,135.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86417562,Andermatt,UR,APARTMENT,36.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86418029,Altendorf,SZ,APARTMENT,105.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86419233,Gurtnellen,UR,APARTMENT,18.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86419587,Weggis,LU,DUPLEX,99.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86422352,Seedorf (UR),UR,APARTMENT,47.0,1.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86423352,Luzern,LU,APARTMENT,27.0,1.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86424326,Luzern,LU,APARTMENT,94.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86425188,Wangen (SZ),SZ,APARTMENT,108.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86426113,Galgenen,SZ,APARTMENT,60.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86428378,Altbüron,LU,APARTMENT,90.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86428383,Escholzmatt-Marbach,LU,APARTMENT,85.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86428824,Emmen,LU,APARTMENT,110.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86433944,Ettiswil,LU,APARTMENT,50.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86434703,Schübelbach,SZ,APARTMENT,125.0,3.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86439938,Hünenberg,ZG,APARTMENT,91.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86440255,Ingenbohl,SZ,APARTMENT,116.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86440648,Schwyz,SZ,APARTMENT,103.0,4.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86441955,Lungern,OW,APARTMENT,28.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86441956,Giswil,OW,APARTMENT,92.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86443400,Luzern,LU,APARTMENT,120.0,4.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86443456,Luzern,LU,APARTMENT,130.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86444787,Oberkirch,LU,APARTMENT,70.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86444803,Escholzmatt-Marbach,LU,APARTMENT,65.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86445285,Hochdorf,LU,APARTMENT,78.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86447022,Luzern,LU,APARTMENT,27.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86447993,Schüpfheim,LU,APARTMENT,80.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86448264,Luzern,LU,APARTMENT,75.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86448386,Luzern,LU,APARTMENT,103.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86453315,Kriens,LU,APARTMENT,63.0,2.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86453317,Emmen,LU,APARTMENT,61.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86453727,Luzern,LU,APARTMENT,87.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86453757,Luzern,LU,APARTMENT,99.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86454392,Cham,ZG,APARTMENT,49.0,1.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86455608,Horw,LU,APARTMENT,20.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86459227,Beromünster,LU,APARTMENT,68.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86459920,Horw,LU,APARTMENT,105.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86460352,Ettiswil,LU,APARTMENT,50.0,1.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86460819,Rothenburg,LU,APARTMENT,74.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86461223,Arth,SZ,APARTMENT,83.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86462017,Bürglen (UR),UR,APARTMENT,80.0,3.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86462020,Buttisholz,LU,APARTMENT,113.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86462021,Zug,ZG,APARTMENT,65.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86462348,Schwarzenberg,LU,APARTMENT,100.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86462416,Nottwil,LU,APARTMENT,18.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86462751,Emmen,LU,APARTMENT,55.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86462873,Arth,SZ,APARTMENT,60.0,3.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86463164,Horw,LU,APARTMENT,30.0,1.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86463171,Rickenbach (LU),LU,APARTMENT,200.0,5.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86463176,Luzern,LU,APARTMENT,87.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86463178,Luzern,LU,APARTMENT,99.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86463312,Horw,LU,APARTMENT,65.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86464358,Nebikon,LU,APARTMENT,62.0,5.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86464374,Schwyz,SZ,APARTMENT,102.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86465045,Feusisberg,SZ,APARTMENT,72.0,3.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86465811,Kriens,LU,APARTMENT,86.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86466161,Udligenswil,LU,APARTMENT,135.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86469009,Menzingen,ZG,APARTMENT,66.0,2.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86471330,Zug,ZG,APARTMENT,80.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86477356,Luzern,LU,APARTMENT,100.0,4.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86478102,Kriens,LU,APARTMENT,80.0,3.0,1 Fehlende Werte,keine Nettomiete bestimmbar
+86479380,Horw,LU,APARTMENT,78.0,3.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86479440,Küssnacht (SZ),SZ,APARTMENT,310.0,5.5,1 Fehlende Werte,keine Nettomiete bestimmbar
+86422791,Sursee,LU,APARTMENT,106.0,4.5,1 Duplikate,gleiche Wohnung unter neuer ID
+86422723,Sursee,LU,APARTMENT,106.0,4.5,1 Duplikate,gleiche Wohnung unter neuer ID
+86463610,Ruswil,LU,APARTMENT,141.0,4.5,1 Duplikate,gleiche Wohnung unter neuer ID
+86466583,Hünenberg,ZG,DUPLEX,180.0,5.5,1 Duplikate,gleiche Wohnung unter neuer ID
+86472738,Luzern,LU,DUPLEX,440.0,8.0,1 Duplikate,gleiche Wohnung unter neuer ID
+86476892,Luzern,LU,APARTMENT,71.0,2.5,1 Duplikate,gleiche Wohnung unter neuer ID
+86479687,Kriens,LU,APARTMENT,77.0,4.5,1 Duplikate,gleiche Wohnung unter neuer ID
+86480283,Hünenberg,ZG,DUPLEX,150.0,5.5,1 Duplikate,gleiche Wohnung unter neuer ID
+86384443,Menzingen,ZG,APARTMENT,18.0,1.0,3 Wertebereich,Wohnfläche < 20 m²
+86024682,Kriens,LU,APARTMENT,10.0,1.0,3 Wertebereich,Wohnfläche < 20 m²
+85718507,Kriens,LU,APARTMENT,15.0,1.0,3 Wertebereich,Wohnfläche < 20 m²
+86338580,Wauwil,LU,APARTMENT,165.0,5.5,3 Wertebereich,Nettomiete ≤ 0 oder ≤ Nebenkosten
+86431114,Küssnacht (SZ),SZ,APARTMENT,24.0,1.0,4 Ausreisser,Nettomiete/m² ausserhalb 10.6–55.6 CHF
+86391520,Zug,ZG,APARTMENT,88.0,3.5,4 Ausreisser,Nettomiete/m² ausserhalb 10.6–55.6 CHF
+86344230,Feusisberg,SZ,APARTMENT,140.0,4.0,4 Ausreisser,Nettomiete/m² ausserhalb 10.6–55.6 CHF
+86287981,Triengen,LU,APARTMENT,239.0,3.5,4 Ausreisser,Nettomiete/m² ausserhalb 10.6–55.6 CHF
