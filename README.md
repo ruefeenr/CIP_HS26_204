@@ -24,6 +24,7 @@ scripts/
   data_engineering_real_estate.ipynb    3  merge scraping runs, assign municipalities, join indicators
   data_cleaning_rentals.ipynb           4  clean listings (6 mandatory cleaning steps, net rent)
   rent_factors_analysis.ipynb           5  analysis RQ1–RQ3 (correlations, regressions, figures)
+  report_figures.ipynb                  6  figures 1–4 of the documentation (English labels)
   flatfox_data_analysis.ipynb              first exploratory plots
 data/
   flatfox_data/<run>/                   raw JSON and CSV per scraping run
@@ -32,6 +33,7 @@ data/
   tax_data/                             ESTV direct federal tax statistics 2022
   geodata/                              swissBOUNDARIES3D (download separately, see below)
   data_processed/                       intermediate and final datasets
+figures/                                PNG figures used in the documentation (from notebook 6)
 ```
 
 Main datasets in `data/data_processed/`:
@@ -49,7 +51,7 @@ Main datasets in `data/data_processed/`:
 pip install -r requirements.txt
 ```
 
-Run the notebooks from inside `scripts/` in the order 1 → 5. All intermediate files are included in the repository, so each notebook can also be run on its own; notebooks 4 and 5 need neither the scraper nor the geodata.
+Run the notebooks from inside `scripts/` in the order 1 → 6. All intermediate files are included in the repository, so each notebook can also be run on its own; notebooks 4–6 need neither the scraper nor the geodata.
 
 - **Notebook 1** queries the live Flatfox website and creates a new timestamped run folder; it is only needed to collect new data.
 - **Notebook 3** needs the municipal boundaries: download *swissBOUNDARIES3D* (GeoPackage, LV95) from <https://ogd.swisstopo.admin.ch/ch.swisstopo.swissboundaries3d>, unzip it and save the `.gpkg` file in `data/geodata/` (see `data/geodata/README.md`; the file is not versioned because of its size).
@@ -71,5 +73,6 @@ Enrique Rüfenacht
 `flatfox_scrape.ipynb`, `data_engineering_municipality.ipynb`, `data_engineering_real_estate.ipynb`, `flatfox_data_analysis.ipynb`; project and data folder structure
 
 Jessica Herzog
-`data_cleaning_rentals.ipynb` (cleaning, net rent, duplicates, value ranges, outliers, enrichment), `rent_factors_analysis.ipynb` (hypotheses, RQ1–RQ3 analysis and figures), `README.md`, `requirements.txt`
+`data_cleaning_rentals.ipynb` (cleaning, net rent, duplicates, value ranges, outliers, enrichment), `rent_factors_analysis.ipynb` (hypotheses, RQ1–RQ3 analysis and figures), `report_figures.ipynb`, `README.md`, `requirements.txt`
 
+Kymberly Bader
