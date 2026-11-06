@@ -55,7 +55,7 @@ pip install -r requirements.txt
 Run the notebooks from inside `scripts/` in the order 1 → 6. All intermediate files are included in the repository, so each notebook can also be run on its own; notebooks 4–6 need neither the scraper nor the GeoPackage.
 
 - **Notebook 1** queries the live Flatfox website and creates a new timestamped run folder; it is only needed to collect new data.
-- **Notebook 3** needs the municipal boundaries: download *swissBOUNDARIES3D* (GeoPackage, LV95) from <https://ogd.swisstopo.admin.ch/ch.swisstopo.swissboundaries3d>, unzip it and save the `.gpkg` file in `data/geodata/` (see `data/geodata/README.md`; the file is not versioned because of its size).
+- **Notebook 3** needs the municipal boundaries: download *swissBOUNDARIES3D* (GeoPackage, LV95, `swissboundaries3d_2026-01_2056_5728.gpkg.zip`) from <https://ogd.swisstopo.admin.ch/ch.swisstopo.swissboundaries3d>, **unzip** it and save the contained `swissBOUNDARIES3D_1_5_LV95_LN02.gpkg` in `data/geodata/`. The notebook finds the only `.gpkg` file in that folder automatically and stops with an error message if there is none or more than one. Version and SHA-256 checksum are documented in `data/geodata/README.md`; the file is not versioned because of its size.
 
 ## Data sources
 
@@ -63,7 +63,7 @@ Run the notebooks from inside `scripts/` in the order 1 → 6. All intermediate 
 - Federal Statistical Office (FSO/BFS): municipal indicators, Swiss Stats Map Explorer
 - Federal Statistical Office (FSO/BFS): urban/rural typology (Gemeindetypologie 2020, municipality status 1.1.2026), Historisiertes Gemeindeverzeichnis
 - Federal Tax Administration (FTA/ESTV): direct federal tax, natural persons, key figures by municipality 2022
-- swisstopo: swissBOUNDARIES3D, version 2026-01
+- swisstopo: swissBOUNDARIES3D, release 2026-01 (data model 1.5, `swissBOUNDARIES3D_1_5_LV95_LN02.gpkg`)
 - swisstopo: Amtliches Ortschaftenverzeichnis mit Postleitzahl (official postal code directory), used to check listing coordinates against the postal code
 
 ## Contributions
