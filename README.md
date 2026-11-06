@@ -25,6 +25,8 @@ scripts/
   data_cleaning_rentals.ipynb           4  all listing filters and cleaning (6 mandatory cleaning steps, net rent)
   rent_factors_analysis.ipynb           5  analysis RQ1–RQ3 (correlations, regressions, figures)
   report_figures.ipynb                  6  figures 1–4 of the documentation (English labels)
+  exploratory_data_analysis.ipynb    supplementary EDA: data quality, rental distributions, geographical coverage and sample representativeness
+
 
 data/
   flatfox_data/<run>/                   raw JSON and CSV per scraping run
@@ -72,4 +74,4 @@ Run the notebooks from inside `scripts/` in the order 1 → 6. All intermediate 
 |---|---|
 | Enrique Rüfenacht | `flatfox_scrape.ipynb`, `data_engineering_municipality.ipynb`, `data_engineering_real_estate.ipynb`; project and data folder structure |
 | Jessica Herzog | `data_cleaning_rentals.ipynb` (cleaning, net rent, duplicates, value ranges, outliers, enrichment), `rent_factors_analysis.ipynb` (hypotheses, RQ1–RQ3 analysis and figures), `report_figures.ipynb`, `README.md`, `requirements.txt` |
-| Kymberly Bader | |
+| Kymberly Bader | `exploratory_data_analysis.ipynb` (data quality, missing values, geographical coverage, rental price distributions, housing characteristics, socioeconomic indicators, sample representativeness), EDA visualizations and report documentation |
