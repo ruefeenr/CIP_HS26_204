@@ -68,13 +68,8 @@ Run the notebooks from inside `scripts/` in the order 1 → 6. All intermediate 
 
 ## Contributions
 
-Member
-Code contribution
-
-Enrique Rüfenacht
-`flatfox_scrape.ipynb`, `data_engineering_municipality.ipynb`, `data_engineering_real_estate.ipynb`; project and data folder structure
-
-Jessica Herzog
-`data_cleaning_rentals.ipynb` (cleaning, net rent, duplicates, value ranges, outliers, enrichment), `rent_factors_analysis.ipynb` (hypotheses, RQ1–RQ3 analysis and figures), `report_figures.ipynb`, `README.md`, `requirements.txt`
-
-Kymberly Bader
+| Member | Code contribution |
+|---|---|
+| Enrique Rüfenacht | `flatfox_scrape.ipynb`, `data_engineering_municipality.ipynb`, `data_engineering_real_estate.ipynb`; project and data folder structure |
+| Jessica Herzog | `data_cleaning_rentals.ipynb` (cleaning, net rent, duplicates, value ranges, outliers, enrichment), `rent_factors_analysis.ipynb` (hypotheses, RQ1–RQ3 analysis and figures), `report_figures.ipynb`, `README.md`, `requirements.txt` |
+| Kymberly Bader | |
