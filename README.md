@@ -34,7 +34,7 @@ data/
   geodata/                              swissBOUNDARIES3D (download separately, see below)
                                         and swisstopo postal code directory (ortschaftenverzeichnis_plz.csv)
   data_processed/                       intermediate and final datasets
-figures/                                PNG figures used in the documentation (from notebook 6)
+figures/                                SVG figures used in the documentation (from notebook 6)
 ```
 
 Main datasets in `data/data_processed/`:
