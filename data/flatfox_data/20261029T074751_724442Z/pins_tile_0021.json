@@ -1,0 +1,74 @@
+{
+  "fetched_at": "2026-10-29T07:48:42.176000+00:00",
+  "bounds": {
+    "west": 8.3490135,
+    "east": 8.421913,
+    "south": 47.000532875,
+    "north": 47.04795556249999
+  },
+  "depth": 4,
+  "returned_count": 4,
+  "limit_reached": false,
+  "pins": [
+    {
+      "pk": 86468160,
+      "smg_id": "",
+      "latitude": 47.0014026,
+      "longitude": 8.3755093,
+      "price_display": 2020,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "selling_price": null,
+      "is_in_region": true,
+      "is_liked": false,
+      "is_disliked": false,
+      "like_status": null,
+      "flatfox_priority_exclusive_until": "2026-11-03T23:59:59+01:00"
+    },
+    {
+      "pk": 86424231,
+      "smg_id": "",
+      "latitude": 47.0423044,
+      "longitude": 8.352619599999999,
+      "price_display": 1070,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "selling_price": null,
+      "is_in_region": true,
+      "is_liked": false,
+      "is_disliked": false,
+      "like_status": null,
+      "flatfox_priority_exclusive_until": null
+    },
+    {
+      "pk": 86418557,
+      "smg_id": "",
+      "latitude": 47.0436591,
+      "longitude": 8.370139499999999,
+      "price_display": 180,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "selling_price": null,
+      "is_in_region": true,
+      "is_liked": false,
+      "is_disliked": false,
+      "like_status": null,
+      "flatfox_priority_exclusive_until": null
+    },
+    {
+      "pk": 1571582,
+      "smg_id": "",
+      "latitude": 47.0398585,
+      "longitude": 8.3600719,
+      "price_display": 59,
+      "price_display_type": "TOTAL",
+      "price_unit": "monthly",
+      "selling_price": null,
+      "is_in_region": true,
+      "is_liked": false,
+      "is_disliked": false,
+      "like_status": null,
+      "flatfox_priority_exclusive_until": null
+    }
+  ]
+}

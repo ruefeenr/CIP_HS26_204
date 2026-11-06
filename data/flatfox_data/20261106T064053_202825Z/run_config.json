@@ -1,0 +1,14 @@
+{
+  "started_at": "2026-11-06T06:40:53.202825+00:00",
+  "bounds": {
+    "west": 7.838717,
+    "east": 9.005109,
+    "south": 46.526306,
+    "north": 47.285069
+  },
+  "max_count": 400,
+  "batch_size": 50,
+  "max_depth": 8,
+  "max_search_requests": 1000,
+  "request_pause": 2
+}
