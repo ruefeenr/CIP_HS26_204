@@ -1,0 +1,12 @@
+# Python >= 3.10
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.9
+seaborn>=0.13
+scipy>=1.10
+statsmodels>=0.14
+geopandas>=1.0
+pyogrio>=0.7
+requests>=2.31
+openpyxl>=3.1
+jupyter
