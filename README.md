@@ -25,7 +25,7 @@ scripts/
   data_cleaning_rentals.ipynb           4  all listing filters and cleaning (6 mandatory cleaning steps, net rent)
   rent_factors_analysis.ipynb           5  analysis RQ1–RQ3 (correlations, regressions, figures)
   report_figures.ipynb                  6  figures 1–4 of the documentation (English labels)
-  flatfox_data_analysis.ipynb              first exploratory plots
+
 data/
   flatfox_data/<run>/                   raw JSON and CSV per scraping run
   demographic_data/                     BFS municipal indicators (Swiss Stats Map Explorer CSVs)
@@ -72,7 +72,7 @@ Member
 Code contribution
 
 Enrique Rüfenacht
-`flatfox_scrape.ipynb`, `data_engineering_municipality.ipynb`, `data_engineering_real_estate.ipynb`, `flatfox_data_analysis.ipynb`; project and data folder structure
+`flatfox_scrape.ipynb`, `data_engineering_municipality.ipynb`, `data_engineering_real_estate.ipynb`; project and data folder structure
 
 Jessica Herzog
 `data_cleaning_rentals.ipynb` (cleaning, net rent, duplicates, value ranges, outliers, enrichment), `rent_factors_analysis.ipynb` (hypotheses, RQ1–RQ3 analysis and figures), `report_figures.ipynb`, `README.md`, `requirements.txt`
